@@ -29,7 +29,7 @@ A common question is *what is the list of minimum attributes to synchronize*. Th
 In this case, start with the list of attributes in this topic and identify those attributes that would contain personal data and cannot be synchronized. Then deselect those attributes during installation using [Azure AD app and attribute filtering](how-to-connect-install-custom.md#azure-ad-app-and-attribute-filtering).
 
 > [!WARNING]
-> When deselecting attributes, you should be cautious and only deselect those attributes absolutely not possible to synchronize. Unselecting other attributes might have a negative impact on features.
+> When deselecting attributes, you should be cautious and only deselect those attributes absolutely not possible to synchronize. Unselecting other attributes might have a negative impact on features!
 >
 >
 
